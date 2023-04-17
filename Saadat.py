@@ -1,6 +1,6 @@
 #SCRIPT BY TH3_L3G3ND
-#FB ID Afghan Hacher
-#FACEBOOK.COM/Afgha Hacker
+#FB ID Raziqullah saadat
+#FACEBOOK.COM/Raziqullah Saadat
 
 W = '\033[97;1m'
 R = '\033[91;1m'
